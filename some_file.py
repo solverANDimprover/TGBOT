@@ -1,2 +1,2 @@
-print("Hello world")
-x = int(input())
+def game():
+    pass
